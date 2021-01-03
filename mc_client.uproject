@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{11FC2631-4462-E116-D307-15BDAC28F7B4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "mc_client",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
